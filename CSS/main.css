@@ -1,0 +1,39 @@
+#verticalcalc{
+    /* border-style:solid ; */
+    border-color: grey;
+    border-radius: 5px;
+  }
+  #vlogo{
+    /* background-image: url('../Assets/italyflagfade.png'); */
+    
+  
+    z-index: 0;
+    background-size: cover;
+  }
+  #calculator{
+    border: solid;
+    /* background: url('../Assets/italyflagfade.png'); */
+    background-color: white;
+  
+    background-size: cover;
+    border-radius: 10px;
+    border-color: grey;
+    padding: 25px;
+    margin-bottom: 15px;
+    text-align: justify;
+    z-index: 1;
+    
+  }
+  #results{
+    justify-content: center;
+    background-color: yellow;
+    border-radius: 2px;
+    font-size: larger;
+    margin: 0 auto;
+  }
+  #form{
+    border-style:solid;
+    border-color: grey;
+    border-radius: 7px;
+    background-color: lightgrey;
+  }
